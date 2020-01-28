@@ -1,0 +1,1879 @@
+Retrieving Results for deer lake, Index:0.
+The weather in deer lake is light snow
+------------
+Retrieving Results for avarua, Index:1.
+The weather in avarua is moderate rain
+------------
+Retrieving Results for jamestown, Index:2.
+The weather in jamestown is light snow
+------------
+Retrieving Results for ostrovnoy, Index:3.
+The weather in ostrovnoy is broken clouds
+------------
+Retrieving Results for busselton, Index:4.
+The weather in busselton is clear sky
+------------
+Retrieving Results for albany, Index:5.
+The weather in albany is overcast clouds
+------------
+Retrieving Results for hobart, Index:6.
+The weather in hobart is scattered clouds
+------------
+Retrieving Results for lavrentiya, Index:7.
+The weather in lavrentiya is broken clouds
+------------
+Retrieving Results for oranzherei, Index:8.
+The weather in oranzherei is broken clouds
+------------
+Retrieving Results for bethel, Index:9.
+The weather in bethel is overcast clouds
+------------
+Retrieving Results for georgetown, Index:10.
+The weather in georgetown is few clouds
+------------
+Retrieving Results for kapaa, Index:11.
+The weather in kapaa is light rain
+------------
+Retrieving Results for ushuaia, Index:12.
+The weather in ushuaia is moderate rain
+------------
+Retrieving Results for cayenne, Index:13.
+The weather in cayenne is broken clouds
+------------
+Retrieving Results for pacific grove, Index:14.
+The weather in pacific grove is clear sky
+------------
+Retrieving Results for bengkulu, Index:15.
+The weather in bengkulu is overcast clouds
+------------
+Retrieving Results for mumford, Index:16.
+The weather in mumford is scattered clouds
+------------
+Retrieving Results for mar del plata, Index:17.
+The weather in mar del plata is clear sky
+------------
+Retrieving Results for kieta, Index:18.
+The weather in kieta is clear sky
+------------
+Retrieving Results for souillac, Index:19.
+The weather in souillac is scattered clouds
+------------
+Retrieving Results for rikitea, Index:20.
+The weather in rikitea is broken clouds
+------------
+Retrieving Results for havelock, Index:21.
+The weather in havelock is light rain
+------------
+Retrieving Results for pevek, Index:22.
+The weather in pevek is broken clouds
+------------
+Retrieving Results for darnah, Index:23.
+The weather in darnah is few clouds
+------------
+Retrieving Results for port hardy, Index:24.
+The weather in port hardy is broken clouds
+------------
+Retrieving Results for saldanha, Index:25.
+The weather in saldanha is overcast clouds
+------------
+Retrieving Results for tuktoyaktuk, Index:26.
+The weather in tuktoyaktuk is few clouds
+------------
+Retrieving Results for avera, Index:27.
+The weather in avera is scattered clouds
+------------
+Retrieving Results for kholtoson, Index:28.
+The weather in kholtoson is overcast clouds
+------------
+Retrieving Results for morant bay, Index:29.
+The weather in morant bay is scattered clouds
+------------
+Retrieving Results for morbegno, Index:30.
+The weather in morbegno is light rain
+------------
+Retrieving Results for saint-philippe, Index:31.
+The weather in saint-philippe is broken clouds
+------------
+Retrieving Results for wani, Index:32.
+The weather in wani is overcast clouds
+------------
+Retrieving Results for east london, Index:33.
+The weather in east london is overcast clouds
+------------
+Retrieving Results for hami, Index:34.
+The weather in hami is broken clouds
+------------
+Retrieving Results for labuhan, Index:35.
+The weather in labuhan is broken clouds
+------------
+Retrieving Results for dunedin, Index:36.
+The weather in dunedin is broken clouds
+------------
+Retrieving Results for corn island, Index:37.
+The weather in corn island is clear sky
+------------
+Retrieving Results for torbay, Index:38.
+The weather in torbay is broken clouds
+------------
+Retrieving Results for taolanaro, Index:39.
+Missing field/result... skipping.
+------------
+Retrieving Results for salgueiro, Index:40.
+The weather in salgueiro is overcast clouds
+------------
+Retrieving Results for andenes, Index:41.
+The weather in andenes is overcast clouds
+------------
+Retrieving Results for saskylakh, Index:42.
+The weather in saskylakh is scattered clouds
+------------
+Retrieving Results for leningradskiy, Index:43.
+The weather in leningradskiy is overcast clouds
+------------
+Retrieving Results for port alfred, Index:44.
+The weather in port alfred is overcast clouds
+------------
+Retrieving Results for diamantino, Index:45.
+The weather in diamantino is light rain
+------------
+Retrieving Results for vaitupu, Index:46.
+Missing field/result... skipping.
+------------
+Retrieving Results for pingshan, Index:47.
+The weather in pingshan is broken clouds
+------------
+Retrieving Results for cape town, Index:48.
+The weather in cape town is broken clouds
+------------
+Retrieving Results for berezovyy, Index:49.
+The weather in berezovyy is broken clouds
+------------
+Retrieving Results for usinsk, Index:50.
+The weather in usinsk is overcast clouds
+------------
+Retrieving Results for aizpute, Index:51.
+The weather in aizpute is overcast clouds
+------------
+Retrieving Results for bandarbeyla, Index:52.
+The weather in bandarbeyla is broken clouds
+------------
+Retrieving Results for camacha, Index:53.
+The weather in camacha is few clouds
+------------
+Retrieving Results for vaini, Index:54.
+The weather in vaini is light intensity drizzle
+------------
+Retrieving Results for carutapera, Index:55.
+The weather in carutapera is overcast clouds
+------------
+Retrieving Results for touros, Index:56.
+The weather in touros is overcast clouds
+------------
+Retrieving Results for chokurdakh, Index:57.
+The weather in chokurdakh is light snow
+------------
+Retrieving Results for kattivakkam, Index:58.
+The weather in kattivakkam is mist
+------------
+Retrieving Results for nanortalik, Index:59.
+The weather in nanortalik is clear sky
+------------
+Retrieving Results for valladolid, Index:60.
+The weather in valladolid is overcast clouds
+------------
+Retrieving Results for narsaq, Index:61.
+The weather in narsaq is light snow
+------------
+Retrieving Results for punta arenas, Index:62.
+The weather in punta arenas is light intensity shower rain
+------------
+Retrieving Results for belushya guba, Index:63.
+Missing field/result... skipping.
+------------
+Retrieving Results for lebu, Index:64.
+The weather in lebu is scattered clouds
+------------
+Retrieving Results for castro, Index:65.
+The weather in castro is light rain
+------------
+Retrieving Results for bredasdorp, Index:66.
+The weather in bredasdorp is broken clouds
+------------
+Retrieving Results for cabo san lucas, Index:67.
+The weather in cabo san lucas is few clouds
+------------
+Retrieving Results for port augusta, Index:68.
+The weather in port augusta is clear sky
+------------
+Retrieving Results for barbar, Index:69.
+Missing field/result... skipping.
+------------
+Retrieving Results for buchanan, Index:70.
+The weather in buchanan is mist
+------------
+Retrieving Results for menongue, Index:71.
+The weather in menongue is light rain
+------------
+Retrieving Results for winder, Index:72.
+The weather in winder is clear sky
+------------
+Retrieving Results for panaba, Index:73.
+The weather in panaba is scattered clouds
+------------
+Retrieving Results for urubicha, Index:74.
+The weather in urubicha is light rain
+------------
+Retrieving Results for dawson creek, Index:75.
+The weather in dawson creek is clear sky
+------------
+Retrieving Results for zhigansk, Index:76.
+The weather in zhigansk is broken clouds
+------------
+Retrieving Results for hilo, Index:77.
+The weather in hilo is scattered clouds
+------------
+Retrieving Results for quatre cocos, Index:78.
+The weather in quatre cocos is scattered clouds
+------------
+Retrieving Results for stoyba, Index:79.
+Missing field/result... skipping.
+------------
+Retrieving Results for mayumba, Index:80.
+The weather in mayumba is moderate rain
+------------
+Retrieving Results for cabatuan, Index:81.
+The weather in cabatuan is broken clouds
+------------
+Retrieving Results for hithadhoo, Index:82.
+The weather in hithadhoo is overcast clouds
+------------
+Retrieving Results for olafsvik, Index:83.
+The weather in olafsvik is light snow
+------------
+Retrieving Results for mogadishu, Index:84.
+The weather in mogadishu is broken clouds
+------------
+Retrieving Results for thompson, Index:85.
+
+The weather in thompson is mist
+------------
+Retrieving Results for barrow, Index:86.
+The weather in barrow is haze
+------------
+Retrieving Results for mount gambier, Index:87.
+The weather in mount gambier is scattered clouds
+------------
+Retrieving Results for nizhneyansk, Index:88.
+Missing field/result... skipping.
+------------
+Retrieving Results for hokitika, Index:89.
+The weather in hokitika is overcast clouds
+------------
+Retrieving Results for hit, Index:90.
+The weather in hit is broken clouds
+------------
+Retrieving Results for senneterre, Index:91.
+The weather in senneterre is light snow
+------------
+Retrieving Results for petauke, Index:92.
+The weather in petauke is scattered clouds
+------------
+Retrieving Results for illoqqortoormiut, Index:93.
+Missing field/result... skipping.
+------------
+Retrieving Results for krasnyy chikoy, Index:94.
+The weather in krasnyy chikoy is scattered clouds
+------------
+Retrieving Results for san patricio, Index:95.
+The weather in san patricio is clear sky
+------------
+Retrieving Results for manitouwadge, Index:96.
+The weather in manitouwadge is overcast clouds
+------------
+Retrieving Results for windhoek, Index:97.
+The weather in windhoek is scattered clouds
+------------
+Retrieving Results for pathein, Index:98.
+The weather in pathein is clear sky
+------------
+Retrieving Results for clyde river, Index:99.
+The weather in clyde river is clear sky
+------------
+Retrieving Results for bubaque, Index:100.
+The weather in bubaque is overcast clouds
+------------
+Retrieving Results for matara, Index:101.
+The weather in matara is broken clouds
+------------
+Retrieving Results for xiaoshi, Index:102.
+The weather in xiaoshi is smoke
+------------
+Retrieving Results for coahuayana, Index:103.
+The weather in coahuayana is clear sky
+------------
+Retrieving Results for grand gaube, Index:104.
+The weather in grand gaube is scattered clouds
+------------
+Retrieving Results for hermanus, Index:105.
+The weather in hermanus is broken clouds
+------------
+Retrieving Results for carnarvon, Index:106.
+The weather in carnarvon is overcast clouds
+------------
+Retrieving Results for grand river south east, Index:107.
+Missing field/result... skipping.
+------------
+Retrieving Results for mahebourg, Index:108.
+The weather in mahebourg is scattered clouds
+------------
+Retrieving Results for qaanaaq, Index:109.
+The weather in qaanaaq is broken clouds
+------------
+Retrieving Results for ancud, Index:110.
+The weather in ancud is broken clouds
+------------
+Retrieving Results for bluff, Index:111.
+The weather in bluff is few clouds
+------------
+Retrieving Results for ipojuca, Index:112.
+The weather in ipojuca is scattered clouds
+------------
+Retrieving Results for kodiak, Index:113.
+The weather in kodiak is few clouds
+------------
+Retrieving Results for derac, Index:114.
+The weather in derac is light rain
+------------
+Retrieving Results for nioki, Index:115.
+The weather in nioki is broken clouds
+------------
+Retrieving Results for attawapiskat, Index:116.
+Missing field/result... skipping.
+------------
+Retrieving Results for north platte, Index:117.
+The weather in north platte is broken clouds
+------------
+Retrieving Results for klaksvik, Index:118.
+The weather in klaksvik is light rain
+------------
+Retrieving Results for amderma, Index:119.
+Missing field/result... skipping.
+------------
+Retrieving Results for kaitangata, Index:120.
+The weather in kaitangata is broken clouds
+------------
+Retrieving Results for warangal, Index:121.
+The weather in warangal is broken clouds
+------------
+Retrieving Results for shenjiamen, Index:122.
+The weather in shenjiamen is broken clouds
+------------
+Retrieving Results for gwadar, Index:123.
+The weather in gwadar is clear sky
+------------
+Retrieving Results for ponta delgada, Index:124.
+The weather in ponta delgada is scattered clouds
+------------
+Retrieving Results for takoradi, Index:125.
+The weather in takoradi is few clouds
+------------
+Retrieving Results for gairo, Index:126.
+The weather in gairo is scattered clouds
+------------
+Retrieving Results for kisangani, Index:127.
+The weather in kisangani is broken clouds
+------------
+Retrieving Results for channel-port aux basques, Index:128.
+The weather in channel-port aux basques is broken clouds
+------------
+Retrieving Results for porbandar, Index:129.
+The weather in porbandar is light rain
+------------
+Retrieving Results for vao, Index:130.
+The weather in vao is light rain
+------------
+Retrieving Results for los llanos de aridane, Index:131.
+The weather in los llanos de aridane is broken clouds
+------------
+Retrieving Results for esperance, Index:132.
+The weather in esperance is clear sky
+------------
+Retrieving Results for puerto ayora, Index:133.
+The weather in puerto ayora is broken clouds
+------------
+Retrieving Results for menzelinsk, Index:134.
+The weather in menzelinsk is broken clouds
+------------
+Retrieving Results for atuona, Index:135.
+The weather in atuona is broken clouds
+------------
+Retrieving Results for rio grande, Index:136.
+The weather in rio grande is clear sky
+------------
+Retrieving Results for atmakur, Index:137.
+The weather in atmakur is broken clouds
+------------
+Retrieving Results for salalah, Index:138.
+The weather in salalah is clear sky
+------------
+Retrieving Results for chara, Index:139.
+The weather in chara is few clouds
+------------
+Retrieving Results for evensk, Index:140.
+The weather in evensk is light snow
+------------
+Retrieving Results for shchelyayur, Index:141.
+Missing field/result... skipping.
+------------
+Retrieving Results for nyrob, Index:142.
+The weather in nyrob is overcast clouds
+------------
+Retrieving Results for hanna, Index:143.
+The weather in hanna is overcast clouds
+------------
+Retrieving Results for yilan, Index:144.
+The weather in yilan is broken clouds
+------------
+Retrieving Results for constitucion, Index:145.
+The weather in constitucion is clear sky
+------------
+Retrieving Results for half moon bay, Index:146.
+The weather in half moon bay is clear sky
+------------
+Retrieving Results for muros, Index:147.
+The weather in muros is broken clouds
+------------
+Retrieving Results for sobolevo, Index:148.
+The weather in sobolevo is light snow
+------------
+Retrieving Results for smidovich, Index:149.
+The weather in smidovich is clear sky
+------------
+Retrieving Results for hasaki, Index:150.
+The weather in hasaki is light rain
+------------
+Retrieving Results for griffith, Index:151.
+The weather in griffith is mist
+------------
+Retrieving Results for marcona, Index:152.
+Missing field/result... skipping.
+------------
+Retrieving Results for mataura, Index:153.
+The weather in mataura is broken clouds
+------------
+Retrieving Results for disa, Index:154.
+The weather in disa is clear sky
+------------
+Retrieving Results for longyearbyen, Index:155.
+The weather in longyearbyen is scattered clouds
+------------
+Retrieving Results for ahuimanu, Index:156.
+The weather in ahuimanu is few clouds
+------------
+Retrieving Results for bambous virieux, Index:157.
+The weather in bambous virieux is scattered clouds
+------------
+Retrieving Results for marsh harbour, Index:158.
+The weather in marsh harbour is light rain
+------------
+Retrieving Results for kommunisticheskiy, Index:159.
+The weather in kommunisticheskiy is light snow
+------------
+Retrieving Results for lagoa, Index:160.
+The weather in lagoa is light rain
+------------
+Retrieving Results for asau, Index:161.
+The weather in asau is overcast clouds
+------------
+Retrieving Results for nago, Index:162.
+The weather in nago is broken clouds
+------------
+Retrieving Results for port elizabeth, Index:163.
+The weather in port elizabeth is overcast clouds
+------------
+Retrieving Results for airai, Index:164.
+The weather in airai is broken clouds
+------------
+Retrieving Results for cherskiy, Index:165.
+The weather in cherskiy is scattered clouds
+------------
+Retrieving Results for xichang, Index:166.
+The weather in xichang is overcast clouds
+------------
+Retrieving Results for isangel, Index:167.
+The weather in isangel is scattered clouds
+------------
+Retrieving Results for general roca, Index:168.
+The weather in general roca is few clouds
+------------
+Retrieving Results for sao joao da barra, Index:169.
+The weather in sao joao da barra is overcast clouds
+------------
+Retrieving Results for torata, Index:170.
+
+The weather in torata is light rain
+------------
+Retrieving Results for virginia beach, Index:171.
+The weather in virginia beach is clear sky
+------------
+Retrieving Results for tiksi, Index:172.
+The weather in tiksi is overcast clouds
+------------
+Retrieving Results for svetlogorsk, Index:173.
+The weather in svetlogorsk is overcast clouds
+------------
+Retrieving Results for margate, Index:174.
+The weather in margate is moderate rain
+------------
+Retrieving Results for bridlington, Index:175.
+The weather in bridlington is overcast clouds
+------------
+Retrieving Results for vera cruz, Index:176.
+The weather in vera cruz is light rain
+------------
+Retrieving Results for balsta, Index:177.
+The weather in balsta is moderate rain
+------------
+Retrieving Results for dikson, Index:178.
+The weather in dikson is overcast clouds
+------------
+Retrieving Results for penzance, Index:179.
+The weather in penzance is light rain
+------------
+Retrieving Results for lhokseumawe, Index:180.
+The weather in lhokseumawe is light rain
+------------
+Retrieving Results for sola, Index:181.
+The weather in sola is light rain
+------------
+Retrieving Results for mongagua, Index:182.
+The weather in mongagua is clear sky
+------------
+Retrieving Results for talnakh, Index:183.
+The weather in talnakh is light snow
+------------
+Retrieving Results for mogok, Index:184.
+The weather in mogok is clear sky
+------------
+Retrieving Results for hervey bay, Index:185.
+The weather in hervey bay is light intensity shower rain
+------------
+Retrieving Results for laguna, Index:186.
+The weather in laguna is clear sky
+------------
+Retrieving Results for duminichi, Index:187.
+The weather in duminichi is light snow
+------------
+Retrieving Results for abashiri, Index:188.
+The weather in abashiri is clear sky
+------------
+Retrieving Results for alpena, Index:189.
+The weather in alpena is overcast clouds
+------------
+Retrieving Results for san policarpo, Index:190.
+The weather in san policarpo is scattered clouds
+------------
+Retrieving Results for palmer, Index:191.
+The weather in palmer is broken clouds
+------------
+Retrieving Results for qandala, Index:192.
+The weather in qandala is clear sky
+------------
+Retrieving Results for inderborskiy, Index:193.
+Missing field/result... skipping.
+------------
+Retrieving Results for daru, Index:194.
+The weather in daru is light rain
+------------
+Retrieving Results for nikolskoye, Index:195.
+The weather in nikolskoye is light snow
+------------
+Retrieving Results for sinnamary, Index:196.
+The weather in sinnamary is overcast clouds
+------------
+Retrieving Results for kondopoga, Index:197.
+The weather in kondopoga is overcast clouds
+------------
+Retrieving Results for moba, Index:198.
+The weather in moba is broken clouds
+------------
+Retrieving Results for victoria, Index:199.
+The weather in victoria is scattered clouds
+------------
+Retrieving Results for butaritari, Index:200.
+The weather in butaritari is light rain
+------------
+Retrieving Results for karamea, Index:201.
+Missing field/result... skipping.
+------------
+Retrieving Results for iqaluit, Index:202.
+The weather in iqaluit is light snow
+------------
+Retrieving Results for angoche, Index:203.
+The weather in angoche is moderate rain
+------------
+Retrieving Results for kahului, Index:204.
+The weather in kahului is few clouds
+------------
+Retrieving Results for tasiilaq, Index:205.
+The weather in tasiilaq is overcast clouds
+------------
+Retrieving Results for mys shmidta, Index:206.
+Missing field/result... skipping.
+------------
+Retrieving Results for fonte boa, Index:207.
+The weather in fonte boa is light rain
+------------
+Retrieving Results for chuy, Index:208.
+The weather in chuy is clear sky
+------------
+Retrieving Results for takaka, Index:209.
+The weather in takaka is overcast clouds
+------------
+Retrieving Results for bulgan, Index:210.
+The weather in bulgan is broken clouds
+------------
+Retrieving Results for rize, Index:211.
+The weather in rize is overcast clouds
+------------
+Retrieving Results for geraldton, Index:212.
+The weather in geraldton is clear sky
+------------
+Retrieving Results for tuatapere, Index:213.
+The weather in tuatapere is broken clouds
+------------
+Retrieving Results for alyangula, Index:214.
+The weather in alyangula is light rain
+------------
+Retrieving Results for fairbanks, Index:215.
+The weather in fairbanks is mist
+------------
+Retrieving Results for vila franca do campo, Index:216.
+The weather in vila franca do campo is scattered clouds
+------------
+Retrieving Results for ayorou, Index:217.
+The weather in ayorou is overcast clouds
+------------
+Retrieving Results for alwar, Index:218.
+The weather in alwar is broken clouds
+------------
+Retrieving Results for hooglede, Index:219.
+The weather in hooglede is light rain
+------------
+Retrieving Results for oltedal, Index:220.
+The weather in oltedal is light rain
+------------
+Retrieving Results for arraial do cabo, Index:221.
+The weather in arraial do cabo is broken clouds
+------------
+Retrieving Results for mayo, Index:222.
+The weather in mayo is overcast clouds
+------------
+Retrieving Results for sumbe, Index:223.
+The weather in sumbe is overcast clouds
+------------
+Retrieving Results for thinadhoo, Index:224.
+The weather in thinadhoo is overcast clouds
+------------
+Retrieving Results for flinders, Index:225.
+The weather in flinders is broken clouds
+------------
+Retrieving Results for hot springs, Index:226.
+The weather in hot springs is clear sky
+------------
+Retrieving Results for anloga, Index:227.
+The weather in anloga is haze
+------------
+Retrieving Results for lichinga, Index:228.
+The weather in lichinga is light rain
+------------
+Retrieving Results for cidreira, Index:229.
+The weather in cidreira is scattered clouds
+------------
+Retrieving Results for porto walter, Index:230.
+The weather in porto walter is overcast clouds
+------------
+Retrieving Results for sulangan, Index:231.
+The weather in sulangan is broken clouds
+------------
+Retrieving Results for bolungarvik, Index:232.
+Missing field/result... skipping.
+------------
+Retrieving Results for khandyga, Index:233.
+The weather in khandyga is light snow
+------------
+Retrieving Results for akyab, Index:234.
+The weather in akyab is clear sky
+------------
+Retrieving Results for cambara, Index:235.
+The weather in cambara is few clouds
+------------
+Retrieving Results for bayan, Index:236.
+The weather in bayan is broken clouds
+------------
+Retrieving Results for qaqortoq, Index:237.
+The weather in qaqortoq is clear sky
+------------
+Retrieving Results for buala, Index:238.
+The weather in buala is broken clouds
+------------
+Retrieving Results for coihaique, Index:239.
+The weather in coihaique is shower rain
+------------
+Retrieving Results for severo-kurilsk, Index:240.
+The weather in severo-kurilsk is light snow
+------------
+Retrieving Results for saleaula, Index:241.
+Missing field/result... skipping.
+------------
+Retrieving Results for zhezkazgan, Index:242.
+The weather in zhezkazgan is heavy snow
+------------
+Retrieving Results for komsomolskiy, Index:243.
+The weather in komsomolskiy is mist
+------------
+Retrieving Results for ishikawa, Index:244.
+The weather in ishikawa is broken clouds
+------------
+Retrieving Results for tuy hoa, Index:245.
+The weather in tuy hoa is light rain
+------------
+Retrieving Results for tabuk, Index:246.
+The weather in tabuk is broken clouds
+------------
+Retrieving Results for sentyabrskiy, Index:247.
+Missing field/result... skipping.
+------------
+Retrieving Results for saint george, Index:248.
+The weather in saint george is clear sky
+------------
+Retrieving Results for ust-barguzin, Index:249.
+The weather in ust-barguzin is clear sky
+------------
+Retrieving Results for sturgeon bay, Index:250.
+The weather in sturgeon bay is overcast clouds
+------------
+Retrieving Results for kovdor, Index:251.
+The weather in kovdor is broken clouds
+------------
+Retrieving Results for mwinilunga, Index:252.
+The weather in mwinilunga is moderate rain
+------------
+Retrieving Results for meulaboh, Index:253.
+The weather in meulaboh is overcast clouds
+------------
+Retrieving Results for new norfolk, Index:254.
+The weather in new norfolk is scattered clouds
+------------
+Retrieving Results for grand centre, Index:255.
+Missing field/result... skipping.
+------------
+Retrieving Results for lompoc, Index:256.
+The weather in lompoc is scattered clouds
+------------
+Retrieving Results for tumannyy, Index:257.
+
+Missing field/result... skipping.
+------------
+Retrieving Results for wahran, Index:258.
+Missing field/result... skipping.
+------------
+Retrieving Results for seymchan, Index:259.
+The weather in seymchan is overcast clouds
+------------
+Retrieving Results for rantepao, Index:260.
+The weather in rantepao is clear sky
+------------
+Retrieving Results for alta floresta, Index:261.
+The weather in alta floresta is light rain
+------------
+Retrieving Results for mizdah, Index:262.
+The weather in mizdah is clear sky
+------------
+Retrieving Results for luganville, Index:263.
+The weather in luganville is broken clouds
+------------
+Retrieving Results for sabha, Index:264.
+The weather in sabha is broken clouds
+------------
+Retrieving Results for northam, Index:265.
+The weather in northam is few clouds
+------------
+Retrieving Results for bafq, Index:266.
+The weather in bafq is clear sky
+------------
+Retrieving Results for tikhvin, Index:267.
+The weather in tikhvin is overcast clouds
+------------
+Retrieving Results for ambatondrazaka, Index:268.
+The weather in ambatondrazaka is overcast clouds
+------------
+Retrieving Results for mtwara, Index:269.
+The weather in mtwara is few clouds
+------------
+Retrieving Results for skopelos, Index:270.
+The weather in skopelos is clear sky
+------------
+Retrieving Results for astana, Index:271.
+The weather in astana is snow
+------------
+Retrieving Results for inirida, Index:272.
+The weather in inirida is scattered clouds
+------------
+Retrieving Results for linchuan, Index:273.
+Missing field/result... skipping.
+------------
+Retrieving Results for hamilton, Index:274.
+The weather in hamilton is overcast clouds
+------------
+Retrieving Results for shache, Index:275.
+The weather in shache is clear sky
+------------
+Retrieving Results for provideniya, Index:276.
+The weather in provideniya is light shower snow
+------------
+Retrieving Results for boyolangu, Index:277.
+The weather in boyolangu is scattered clouds
+------------
+Retrieving Results for ponta do sol, Index:278.
+The weather in ponta do sol is few clouds
+------------
+Retrieving Results for chipinge, Index:279.
+The weather in chipinge is light rain
+------------
+Retrieving Results for korla, Index:280.
+The weather in korla is clear sky
+------------
+Retrieving Results for sorvag, Index:281.
+Missing field/result... skipping.
+------------
+Retrieving Results for bay roberts, Index:282.
+The weather in bay roberts is broken clouds
+------------
+Retrieving Results for juneau, Index:283.
+The weather in juneau is light rain
+------------
+Retrieving Results for charters towers, Index:284.
+The weather in charters towers is light rain
+------------
+Retrieving Results for manggar, Index:285.
+The weather in manggar is overcast clouds
+------------
+Retrieving Results for filadelfia, Index:286.
+The weather in filadelfia is overcast clouds
+------------
+Retrieving Results for dingle, Index:287.
+The weather in dingle is broken clouds
+------------
+Retrieving Results for otyniya, Index:288.
+The weather in otyniya is broken clouds
+------------
+Retrieving Results for nemuro, Index:289.
+The weather in nemuro is clear sky
+------------
+Retrieving Results for sao filipe, Index:290.
+The weather in sao filipe is clear sky
+------------
+Retrieving Results for mecca, Index:291.
+The weather in mecca is clear sky
+------------
+Retrieving Results for rovnoye, Index:292.
+The weather in rovnoye is overcast clouds
+------------
+Retrieving Results for hambantota, Index:293.
+The weather in hambantota is broken clouds
+------------
+Retrieving Results for tanabe, Index:294.
+The weather in tanabe is broken clouds
+------------
+Retrieving Results for namatanai, Index:295.
+The weather in namatanai is broken clouds
+------------
+Retrieving Results for tura, Index:296.
+The weather in tura is clear sky
+------------
+Retrieving Results for mahibadhoo, Index:297.
+The weather in mahibadhoo is broken clouds
+------------
+Retrieving Results for palabuhanratu, Index:298.
+Missing field/result... skipping.
+------------
+Retrieving Results for kavieng, Index:299.
+The weather in kavieng is light rain
+------------
+Retrieving Results for birao, Index:300.
+The weather in birao is clear sky
+------------
+Retrieving Results for yellowknife, Index:301.
+The weather in yellowknife is light snow
+------------
+Retrieving Results for katsuura, Index:302.
+The weather in katsuura is light rain
+------------
+Retrieving Results for santa cruz de tenerife, Index:303.
+The weather in santa cruz de tenerife is broken clouds
+------------
+Retrieving Results for khash, Index:304.
+The weather in khash is clear sky
+------------
+Retrieving Results for sitka, Index:305.
+The weather in sitka is light rain
+------------
+Retrieving Results for roseburg, Index:306.
+The weather in roseburg is overcast clouds
+------------
+Retrieving Results for san cristobal, Index:307.
+The weather in san cristobal is scattered clouds
+------------
+Retrieving Results for kungurtug, Index:308.
+The weather in kungurtug is clear sky
+------------
+Retrieving Results for miandrivazo, Index:309.
+The weather in miandrivazo is few clouds
+------------
+Retrieving Results for tynda, Index:310.
+The weather in tynda is scattered clouds
+------------
+Retrieving Results for bathsheba, Index:311.
+The weather in bathsheba is scattered clouds
+------------
+Retrieving Results for san angelo, Index:312.
+The weather in san angelo is few clouds
+------------
+Retrieving Results for samusu, Index:313.
+Missing field/result... skipping.
+------------
+Retrieving Results for tsihombe, Index:314.
+Missing field/result... skipping.
+------------
+Retrieving Results for winneba, Index:315.
+The weather in winneba is scattered clouds
+------------
+Retrieving Results for samarai, Index:316.
+The weather in samarai is overcast clouds
+------------
+Retrieving Results for zambezi, Index:317.
+The weather in zambezi is overcast clouds
+------------
+Retrieving Results for hay river, Index:318.
+The weather in hay river is overcast clouds
+------------
+Retrieving Results for vila do maio, Index:319.
+The weather in vila do maio is clear sky
+------------
+Retrieving Results for karaul, Index:320.
+Missing field/result... skipping.
+------------
+Retrieving Results for khatanga, Index:321.
+The weather in khatanga is clear sky
+------------
+Retrieving Results for barentsburg, Index:322.
+Missing field/result... skipping.
+------------
+Retrieving Results for biankouma, Index:323.
+The weather in biankouma is scattered clouds
+------------
+Retrieving Results for diego de almagro, Index:324.
+The weather in diego de almagro is clear sky
+------------
+Retrieving Results for vadakku valliyur, Index:325.
+The weather in vadakku valliyur is mist
+------------
+Retrieving Results for athabasca, Index:326.
+The weather in athabasca is broken clouds
+------------
+Retrieving Results for chagda, Index:327.
+Missing field/result... skipping.
+------------
+Retrieving Results for urdzhar, Index:328.
+Missing field/result... skipping.
+------------
+Retrieving Results for maunatlala, Index:329.
+The weather in maunatlala is overcast clouds
+------------
+Retrieving Results for kasongo-lunda, Index:330.
+The weather in kasongo-lunda is overcast clouds
+------------
+Retrieving Results for college, Index:331.
+The weather in college is mist
+------------
+Retrieving Results for carmen, Index:332.
+The weather in carmen is few clouds
+------------
+Retrieving Results for mikhaylovsk, Index:333.
+The weather in mikhaylovsk is overcast clouds
+------------
+Retrieving Results for wake forest, Index:334.
+The weather in wake forest is light intensity drizzle
+------------
+Retrieving Results for rovaniemi, Index:335.
+The weather in rovaniemi is light snow
+------------
+Retrieving Results for paamiut, Index:336.
+The weather in paamiut is few clouds
+------------
+Retrieving Results for mahuta, Index:337.
+The weather in mahuta is scattered clouds
+------------
+Retrieving Results for coffs harbour, Index:338.
+The weather in coffs harbour is clear sky
+------------
+Retrieving Results for teya, Index:339.
+The weather in teya is overcast clouds
+------------
+Retrieving Results for champerico, Index:340.
+The weather in champerico is scattered clouds
+------------
+Retrieving Results for jinchengjiang, Index:341.
+Missing field/result... skipping.
+------------
+Retrieving Results for cuajinicuilapa, Index:342.
+The weather in cuajinicuilapa is clear sky
+------------
+Retrieving Results for ocher, Index:343.
+The weather in ocher is scattered clouds
+------------
+Retrieving Results for vestmannaeyjar, Index:344.
+The weather in vestmannaeyjar is light snow
+------------
+Retrieving Results for kabalo, Index:345.
+
+The weather in kabalo is broken clouds
+------------
+Retrieving Results for chukhloma, Index:346.
+The weather in chukhloma is scattered clouds
+------------
+Retrieving Results for craig, Index:347.
+The weather in craig is overcast clouds
+------------
+Retrieving Results for la sarre, Index:348.
+The weather in la sarre is overcast clouds
+------------
+Retrieving Results for soc trang, Index:349.
+The weather in soc trang is mist
+------------
+Retrieving Results for santa cruz, Index:350.
+The weather in santa cruz is thunderstorm with light rain
+------------
+Retrieving Results for pangnirtung, Index:351.
+The weather in pangnirtung is scattered clouds
+------------
+Retrieving Results for kesennuma, Index:352.
+Missing field/result... skipping.
+------------
+Retrieving Results for birnin kebbi, Index:353.
+The weather in birnin kebbi is clear sky
+------------
+Retrieving Results for nioro, Index:354.
+The weather in nioro is scattered clouds
+------------
+Retrieving Results for san luis, Index:355.
+The weather in san luis is light rain
+------------
+Retrieving Results for carbonia, Index:356.
+The weather in carbonia is overcast clouds
+------------
+Retrieving Results for biloela, Index:357.
+The weather in biloela is overcast clouds
+------------
+Retrieving Results for plettenberg bay, Index:358.
+The weather in plettenberg bay is broken clouds
+------------
+Retrieving Results for broome, Index:359.
+The weather in broome is overcast clouds
+------------
+Retrieving Results for muriwai beach, Index:360.
+The weather in muriwai beach is light rain
+------------
+Retrieving Results for canoinhas, Index:361.
+The weather in canoinhas is scattered clouds
+------------
+Retrieving Results for nyurba, Index:362.
+The weather in nyurba is scattered clouds
+------------
+Retrieving Results for luderitz, Index:363.
+The weather in luderitz is clear sky
+------------
+Retrieving Results for port blair, Index:364.
+The weather in port blair is broken clouds
+------------
+Retrieving Results for bolshaya vishera, Index:365.
+Missing field/result... skipping.
+------------
+Retrieving Results for ardakan, Index:366.
+The weather in ardakan is clear sky
+------------
+Retrieving Results for milingimbi, Index:367.
+Missing field/result... skipping.
+------------
+Retrieving Results for muroto, Index:368.
+The weather in muroto is shower rain
+------------
+Retrieving Results for kambove, Index:369.
+The weather in kambove is moderate rain
+------------
+Retrieving Results for santa fe, Index:370.
+The weather in santa fe is broken clouds
+------------
+Retrieving Results for yanan, Index:371.
+Missing field/result... skipping.
+------------
+Retrieving Results for aligarh, Index:372.
+The weather in aligarh is scattered clouds
+------------
+Retrieving Results for formoso do araguaia, Index:373.
+Missing field/result... skipping.
+------------
+Retrieving Results for vardo, Index:374.
+The weather in vardo is fog
+------------
+Retrieving Results for beringovskiy, Index:375.
+The weather in beringovskiy is broken clouds
+------------
+Retrieving Results for ayia marina, Index:376.
+The weather in ayia marina is few clouds
+------------
+Retrieving Results for huicheng, Index:377.
+The weather in huicheng is overcast clouds
+------------
+Retrieving Results for san fernando, Index:378.
+The weather in san fernando is scattered clouds
+------------
+Retrieving Results for kazalinsk, Index:379.
+Missing field/result... skipping.
+------------
+Retrieving Results for paciran, Index:380.
+The weather in paciran is broken clouds
+------------
+Retrieving Results for cockburn town, Index:381.
+The weather in cockburn town is light rain
+------------
+Retrieving Results for brae, Index:382.
+The weather in brae is light rain
+------------
+Retrieving Results for sesheke, Index:383.
+The weather in sesheke is broken clouds
+------------
+Retrieving Results for saint anthony, Index:384.
+The weather in saint anthony is overcast clouds
+------------
+Retrieving Results for roros, Index:385.
+The weather in roros is light snow
+------------
+Retrieving Results for yokadouma, Index:386.
+The weather in yokadouma is clear sky
+------------
+Retrieving Results for arvika, Index:387.
+The weather in arvika is mist
+------------
+Retrieving Results for mikkeli, Index:388.
+The weather in mikkeli is light snow
+------------
+Retrieving Results for steinbach, Index:389.
+The weather in steinbach is light rain
+------------
+Retrieving Results for sur, Index:390.
+The weather in sur is clear sky
+------------
+Retrieving Results for nantucket, Index:391.
+The weather in nantucket is overcast clouds
+------------
+Retrieving Results for kaeo, Index:392.
+The weather in kaeo is clear sky
+------------
+Retrieving Results for norrtalje, Index:393.
+The weather in norrtalje is moderate rain
+------------
+Retrieving Results for klyuchi, Index:394.
+The weather in klyuchi is clear sky
+------------
+Retrieving Results for omaruru, Index:395.
+The weather in omaruru is scattered clouds
+------------
+Retrieving Results for port lincoln, Index:396.
+The weather in port lincoln is clear sky
+------------
+Retrieving Results for jalu, Index:397.
+The weather in jalu is scattered clouds
+------------
+Retrieving Results for dickinson, Index:398.
+The weather in dickinson is overcast clouds
+------------
+Retrieving Results for saint-francois, Index:399.
+The weather in saint-francois is moderate rain
+------------
+Retrieving Results for naryan-mar, Index:400.
+The weather in naryan-mar is scattered clouds
+------------
+Retrieving Results for the pas, Index:401.
+The weather in the pas is light snow
+------------
+Retrieving Results for poum, Index:402.
+The weather in poum is overcast clouds
+------------
+Retrieving Results for kargasok, Index:403.
+The weather in kargasok is overcast clouds
+------------
+Retrieving Results for biltine, Index:404.
+The weather in biltine is scattered clouds
+------------
+Retrieving Results for iskateley, Index:405.
+The weather in iskateley is scattered clouds
+------------
+Retrieving Results for nisia floresta, Index:406.
+The weather in nisia floresta is few clouds
+------------
+Retrieving Results for cascais, Index:407.
+The weather in cascais is drizzle rain
+------------
+Retrieving Results for miles city, Index:408.
+The weather in miles city is light snow
+------------
+Retrieving Results for beroroha, Index:409.
+The weather in beroroha is few clouds
+------------
+Retrieving Results for taburao, Index:410.
+Missing field/result... skipping.
+------------
+Retrieving Results for fortuna, Index:411.
+The weather in fortuna is overcast clouds
+------------
+Retrieving Results for igrim, Index:412.
+The weather in igrim is overcast clouds
+------------
+Retrieving Results for sioux lookout, Index:413.
+The weather in sioux lookout is light snow
+------------
+Retrieving Results for chimbote, Index:414.
+The weather in chimbote is scattered clouds
+------------
+Retrieving Results for curitibanos, Index:415.
+The weather in curitibanos is broken clouds
+------------
+Retrieving Results for malmesbury, Index:416.
+The weather in malmesbury is overcast clouds
+------------
+Retrieving Results for green river, Index:417.
+The weather in green river is clear sky
+------------
+Retrieving Results for erenhot, Index:418.
+The weather in erenhot is overcast clouds
+------------
+Retrieving Results for doctor pedro p. pena, Index:419.
+Missing field/result... skipping.
+------------
+Retrieving Results for terney, Index:420.
+The weather in terney is scattered clouds
+------------
+Retrieving Results for kushmurun, Index:421.
+The weather in kushmurun is light snow
+------------
+Retrieving Results for aflu, Index:422.
+Missing field/result... skipping.
+------------
+Retrieving Results for zuenoula, Index:423.
+The weather in zuenoula is scattered clouds
+------------
+Retrieving Results for ulaangom, Index:424.
+The weather in ulaangom is few clouds
+------------
+Retrieving Results for dolores, Index:425.
+The weather in dolores is clear sky
+------------
+Retrieving Results for ketchikan, Index:426.
+The weather in ketchikan is light rain
+------------
+Retrieving Results for te anau, Index:427.
+The weather in te anau is scattered clouds
+------------
+Retrieving Results for pisco, Index:428.
+The weather in pisco is scattered clouds
+------------
+Retrieving Results for dudinka, Index:429.
+
+The weather in dudinka is light snow
+------------
+Retrieving Results for shvartsevskiy, Index:430.
+The weather in shvartsevskiy is snow
+------------
+Retrieving Results for naze, Index:431.
+The weather in naze is light intensity shower rain
+------------
+Retrieving Results for aracaju, Index:432.
+The weather in aracaju is overcast clouds
+------------
+Retrieving Results for saint-leu, Index:433.
+The weather in saint-leu is few clouds
+------------
+Retrieving Results for kloulklubed, Index:434.
+The weather in kloulklubed is light intensity shower rain
+------------
+Retrieving Results for high level, Index:435.
+The weather in high level is mist
+------------
+Retrieving Results for dibombari, Index:436.
+The weather in dibombari is few clouds
+------------
+Retrieving Results for kalakamati, Index:437.
+The weather in kalakamati is broken clouds
+------------
+Retrieving Results for bilibino, Index:438.
+The weather in bilibino is overcast clouds
+------------
+Retrieving Results for pakwach, Index:439.
+Missing field/result... skipping.
+------------
+Retrieving Results for gisborne, Index:440.
+The weather in gisborne is clear sky
+------------
+Retrieving Results for mayya, Index:441.
+The weather in mayya is light snow
+------------
+Retrieving Results for taybad, Index:442.
+The weather in taybad is clear sky
+------------
+Retrieving Results for vanimo, Index:443.
+The weather in vanimo is moderate rain
+------------
+Retrieving Results for darhan, Index:444.
+The weather in darhan is clear sky
+------------
+Retrieving Results for bardsir, Index:445.
+The weather in bardsir is clear sky
+------------
+Retrieving Results for hanzhong, Index:446.
+The weather in hanzhong is scattered clouds
+------------
+Retrieving Results for wukari, Index:447.
+The weather in wukari is clear sky
+------------
+Retrieving Results for khandagayty, Index:448.
+The weather in khandagayty is broken clouds
+------------
+Retrieving Results for bocaranga, Index:449.
+Missing field/result... skipping.
+------------
+Retrieving Results for yuryevets, Index:450.
+The weather in yuryevets is broken clouds
+------------
+Retrieving Results for mehamn, Index:451.
+The weather in mehamn is scattered clouds
+------------
+Retrieving Results for pimenta bueno, Index:452.
+The weather in pimenta bueno is light rain
+------------
+Retrieving Results for show low, Index:453.
+The weather in show low is clear sky
+------------
+Retrieving Results for maniitsoq, Index:454.
+The weather in maniitsoq is light snow
+------------
+Retrieving Results for dwarka, Index:455.
+The weather in dwarka is clear sky
+------------
+Retrieving Results for chicama, Index:456.
+The weather in chicama is few clouds
+------------
+Retrieving Results for yantal, Index:457.
+The weather in yantal is clear sky
+------------
+Retrieving Results for toliary, Index:458.
+Missing field/result... skipping.
+------------
+Retrieving Results for puro, Index:459.
+The weather in puro is broken clouds
+------------
+Retrieving Results for koslan, Index:460.
+The weather in koslan is overcast clouds
+------------
+Retrieving Results for yumen, Index:461.
+The weather in yumen is clear sky
+------------
+Retrieving Results for upernavik, Index:462.
+The weather in upernavik is overcast clouds
+------------
+Retrieving Results for auki, Index:463.
+The weather in auki is overcast clouds
+------------
+Retrieving Results for port macquarie, Index:464.
+The weather in port macquarie is clear sky
+------------
+Retrieving Results for warqla, Index:465.
+Missing field/result... skipping.
+------------
+Retrieving Results for jumla, Index:466.
+The weather in jumla is broken clouds
+------------
+Retrieving Results for terrace bay, Index:467.
+The weather in terrace bay is light snow
+------------
+Retrieving Results for saint-augustin, Index:468.
+The weather in saint-augustin is light snow
+------------
+Retrieving Results for pflugerville, Index:469.
+The weather in pflugerville is clear sky
+------------
+Retrieving Results for ribeira grande, Index:470.
+The weather in ribeira grande is broken clouds
+------------
+Retrieving Results for rabo de peixe, Index:471.
+The weather in rabo de peixe is scattered clouds
+------------
+Retrieving Results for benalla, Index:472.
+The weather in benalla is overcast clouds
+------------
+Retrieving Results for guiglo, Index:473.
+The weather in guiglo is clear sky
+------------
+Retrieving Results for spirit river, Index:474.
+The weather in spirit river is scattered clouds
+------------
+Retrieving Results for pop, Index:475.
+The weather in pop is mist
+------------
+Retrieving Results for chapais, Index:476.
+The weather in chapais is clear sky
+------------
+Retrieving Results for vidim, Index:477.
+The weather in vidim is clear sky
+------------
+Retrieving Results for lishan, Index:478.
+The weather in lishan is clear sky
+------------
+Retrieving Results for leh, Index:479.
+The weather in leh is overcast clouds
+------------
+Retrieving Results for sandnessjoen, Index:480.
+The weather in sandnessjoen is overcast clouds
+------------
+Retrieving Results for bograd, Index:481.
+The weather in bograd is overcast clouds
+------------
+Retrieving Results for kimberley, Index:482.
+The weather in kimberley is clear sky
+------------
+Retrieving Results for lorengau, Index:483.
+The weather in lorengau is light rain
+------------
+Retrieving Results for khirkiya, Index:484.
+The weather in khirkiya is clear sky
+------------
+Retrieving Results for fianga, Index:485.
+Missing field/result... skipping.
+------------
+Retrieving Results for turka, Index:486.
+The weather in turka is overcast clouds
+------------
+Retrieving Results for salta, Index:487.
+The weather in salta is broken clouds
+------------
+Retrieving Results for katha, Index:488.
+Missing field/result... skipping.
+------------
+Retrieving Results for talakan, Index:489.
+The weather in talakan is broken clouds
+------------
+Retrieving Results for yulara, Index:490.
+The weather in yulara is clear sky
+------------
+Retrieving Results for tessalit, Index:491.
+The weather in tessalit is overcast clouds
+------------
+Retrieving Results for steenwijk, Index:492.
+The weather in steenwijk is moderate rain
+------------
+Retrieving Results for norman wells, Index:493.
+The weather in norman wells is broken clouds
+------------
+Retrieving Results for kabanjahe, Index:494.
+The weather in kabanjahe is scattered clouds
+------------
+Retrieving Results for puerto rico, Index:495.
+The weather in puerto rico is broken clouds
+------------
+Retrieving Results for nkhotakota, Index:496.
+The weather in nkhotakota is light rain
+------------
+Retrieving Results for nouadhibou, Index:497.
+The weather in nouadhibou is broken clouds
+------------
+Retrieving Results for sovetskiy, Index:498.
+The weather in sovetskiy is light snow
+------------
+Retrieving Results for qasigiannguit, Index:499.
+The weather in qasigiannguit is overcast clouds
+------------
+Retrieving Results for bahia honda, Index:500.
+The weather in bahia honda is moderate rain
+------------
+Retrieving Results for chifeng, Index:501.
+The weather in chifeng is overcast clouds
+------------
+Retrieving Results for havre-saint-pierre, Index:502.
+The weather in havre-saint-pierre is light snow
+------------
+Retrieving Results for fukue, Index:503.
+The weather in fukue is light intensity shower rain
+------------
+Retrieving Results for kwekwe, Index:504.
+The weather in kwekwe is clear sky
+------------
+Retrieving Results for richards bay, Index:505.
+The weather in richards bay is light rain
+------------
+Retrieving Results for bintulu, Index:506.
+The weather in bintulu is broken clouds
+------------
+Retrieving Results for sideropolis, Index:507.
+The weather in sideropolis is light rain
+------------
+Retrieving Results for awjilah, Index:508.
+The weather in awjilah is scattered clouds
+------------
+Retrieving Results for souris, Index:509.
+The weather in souris is broken clouds
+------------
+Retrieving Results for hailar, Index:510.
+The weather in hailar is clear sky
+------------
+Retrieving Results for vrontou, Index:511.
+The weather in vrontou is clear sky
+------------
+Retrieving Results for letterkenny, Index:512.
+The weather in letterkenny is light snow
+------------
+Retrieving Results for neepawa, Index:513.
+The weather in neepawa is broken clouds
+------------
+Retrieving Results for pemangkat, Index:514.
+The weather in pemangkat is overcast clouds
+------------
+Retrieving Results for ilulissat, Index:515.
+The weather in ilulissat is overcast clouds
+------------
+Retrieving Results for praia da vitoria, Index:516.
+The weather in praia da vitoria is broken clouds
+------------
+Retrieving Results for vestmanna, Index:517.
+
+The weather in vestmanna is light snow
+------------
+Retrieving Results for monaragala, Index:518.
+The weather in monaragala is overcast clouds
+------------
+Retrieving Results for pyinmana, Index:519.
+The weather in pyinmana is clear sky
+------------
+Retrieving Results for caibarien, Index:520.
+The weather in caibarien is few clouds
+------------
+Retrieving Results for kruisfontein, Index:521.
+The weather in kruisfontein is overcast clouds
+------------
+Retrieving Results for semnan, Index:522.
+The weather in semnan is clear sky
+------------
+Retrieving Results for khandbari, Index:523.
+The weather in khandbari is scattered clouds
+------------
+Retrieving Results for dauphin, Index:524.
+The weather in dauphin is overcast clouds
+------------
+Retrieving Results for bambanglipuro, Index:525.
+The weather in bambanglipuro is broken clouds
+------------
+Retrieving Results for yeppoon, Index:526.
+The weather in yeppoon is broken clouds
+------------
+Retrieving Results for kailua, Index:527.
+The weather in kailua is few clouds
+------------
+Retrieving Results for sorong, Index:528.
+The weather in sorong is clear sky
+------------
+Retrieving Results for atar, Index:529.
+The weather in atar is scattered clouds
+------------
+Retrieving Results for bocas del toro, Index:530.
+The weather in bocas del toro is scattered clouds
+------------
+Retrieving Results for taoudenni, Index:531.
+The weather in taoudenni is clear sky
+------------
+Retrieving Results for safwah, Index:532.
+Missing field/result... skipping.
+------------
+Retrieving Results for douglas, Index:533.
+The weather in douglas is overcast clouds
+------------
+Retrieving Results for marienburg, Index:534.
+The weather in marienburg is mist
+------------
+Retrieving Results for abu kamal, Index:535.
+The weather in abu kamal is overcast clouds
+------------
+Retrieving Results for kenai, Index:536.
+The weather in kenai is few clouds
+------------
+Retrieving Results for rundu, Index:537.
+The weather in rundu is clear sky
+------------
+Retrieving Results for hyeres, Index:538.
+The weather in hyeres is scattered clouds
+------------
+Retrieving Results for tongliao, Index:539.
+The weather in tongliao is overcast clouds
+------------
+Retrieving Results for a, Index:540.
+Missing field/result... skipping.
+------------
+Retrieving Results for anito, Index:541.
+The weather in anito is broken clouds
+------------
+Retrieving Results for oistins, Index:542.
+The weather in oistins is scattered clouds
+------------
+Retrieving Results for kharan, Index:543.
+The weather in kharan is clear sky
+------------
+Retrieving Results for khuzhir, Index:544.
+The weather in khuzhir is clear sky
+------------
+Retrieving Results for salaberry-de-valleyfield, Index:545.
+The weather in salaberry-de-valleyfield is overcast clouds
+------------
+Retrieving Results for shimoda, Index:546.
+The weather in shimoda is broken clouds
+------------
+Retrieving Results for arak, Index:547.
+The weather in arak is clear sky
+------------
+Retrieving Results for flin flon, Index:548.
+The weather in flin flon is light snow
+------------
+Retrieving Results for huangpi, Index:549.
+The weather in huangpi is mist
+------------
+Retrieving Results for agadez, Index:550.
+The weather in agadez is broken clouds
+------------
+Retrieving Results for hearst, Index:551.
+The weather in hearst is overcast clouds
+------------
+Retrieving Results for mocambique, Index:552.
+Missing field/result... skipping.
+------------
+Retrieving Results for faanui, Index:553.
+The weather in faanui is light rain
+------------
+Retrieving Results for cudahy, Index:554.
+The weather in cudahy is clear sky
+------------
+Retrieving Results for nelson bay, Index:555.
+The weather in nelson bay is clear sky
+------------
+Retrieving Results for aquiraz, Index:556.
+The weather in aquiraz is broken clouds
+------------
+Retrieving Results for rio gallegos, Index:557.
+The weather in rio gallegos is moderate rain
+------------
+Retrieving Results for gobabis, Index:558.
+The weather in gobabis is clear sky
+------------
+Retrieving Results for tiznit, Index:559.
+The weather in tiznit is overcast clouds
+------------
+Retrieving Results for hovd, Index:560.
+The weather in hovd is clear sky
+------------
+Retrieving Results for jiwani, Index:561.
+The weather in jiwani is clear sky
+------------
+Retrieving Results for sept-iles, Index:562.
+The weather in sept-iles is light snow
+------------
+Retrieving Results for kegayli, Index:563.
+Missing field/result... skipping.
+------------
+Retrieving Results for zhigalovo, Index:564.
+The weather in zhigalovo is clear sky
+------------
+Retrieving Results for upata, Index:565.
+The weather in upata is broken clouds
+------------
+Retrieving Results for bac lieu, Index:566.
+The weather in bac lieu is broken clouds
+------------
+Retrieving Results for simao, Index:567.
+The weather in simao is clear sky
+------------
+Retrieving Results for deputatskiy, Index:568.
+The weather in deputatskiy is overcast clouds
+------------
+Retrieving Results for russell, Index:569.
+The weather in russell is clear sky
+------------
+Retrieving Results for okhotsk, Index:570.
+The weather in okhotsk is clear sky
+------------
+Retrieving Results for aklavik, Index:571.
+The weather in aklavik is light snow
+------------
+Retrieving Results for dekar, Index:572.
+The weather in dekar is overcast clouds
+------------
+Retrieving Results for juruti, Index:573.
+The weather in juruti is light rain
+------------
+Retrieving Results for batagay, Index:574.
+The weather in batagay is clear sky
+------------
+Retrieving Results for alofi, Index:575.
+The weather in alofi is scattered clouds
+------------
+Retrieving Results for el faiyum, Index:576.
+Missing field/result... skipping.
+------------
+Retrieving Results for tabou, Index:577.
+The weather in tabou is clear sky
+------------
+Retrieving Results for lasa, Index:578.
+The weather in lasa is light snow
+------------
+Retrieving Results for kendari, Index:579.
+The weather in kendari is light rain
+------------
+Retrieving Results for racale, Index:580.
+The weather in racale is few clouds
+------------
+Retrieving Results for atasu, Index:581.
+The weather in atasu is light snow
+------------
+Retrieving Results for south river, Index:582.
+The weather in south river is overcast clouds
+------------
+Retrieving Results for cap malheureux, Index:583.
+The weather in cap malheureux is scattered clouds
+------------
+Retrieving Results for thunder bay, Index:584.
+The weather in thunder bay is overcast clouds
+------------
+Retrieving Results for macaboboni, Index:585.
+Missing field/result... skipping.
+------------
+Retrieving Results for arlit, Index:586.
+The weather in arlit is broken clouds
+------------
+Retrieving Results for ostersund, Index:587.
+The weather in ostersund is very heavy rain
+------------
+Retrieving Results for torres, Index:588.
+The weather in torres is light rain
+------------
+Retrieving Results for huarmey, Index:589.
+The weather in huarmey is broken clouds
+------------
+Retrieving Results for panama city, Index:590.
+The weather in panama city is scattered clouds
+------------
+Retrieving Results for opuwo, Index:591.
+The weather in opuwo is light rain
+------------
+Retrieving Results for christchurch, Index:592.
+The weather in christchurch is broken clouds
+------------
+Retrieving Results for caravelas, Index:593.
+The weather in caravelas is overcast clouds
+------------
+Retrieving Results for sarkand, Index:594.
+The weather in sarkand is light snow
+------------
+Retrieving Results for sangar, Index:595.
+The weather in sangar is clear sky
+------------
+Retrieving Results for grindavik, Index:596.
+The weather in grindavik is overcast clouds
+------------
+Retrieving Results for champasak, Index:597.
+The weather in champasak is broken clouds
+------------
+Retrieving Results for conceicao do araguaia, Index:598.
+The weather in conceicao do araguaia is light rain
+------------
+Retrieving Results for el dorado, Index:599.
+The weather in el dorado is clear sky
+------------
+Retrieving Results for kayerkan, Index:600.
+The weather in kayerkan is light snow
+------------
+Retrieving Results for zhanaozen, Index:601.
+The weather in zhanaozen is broken clouds
+------------
+Retrieving Results for bandar, Index:602.
+The weather in bandar is light rain
+------------
+Retrieving Results for turkistan, Index:603.
+
+The weather in turkistan is few clouds
+------------
+Retrieving Results for puerto leguizamo, Index:604.
+The weather in puerto leguizamo is overcast clouds
+------------
+Retrieving Results for viedma, Index:605.
+The weather in viedma is few clouds
+------------
+Retrieving Results for parfenyevo, Index:606.
+The weather in parfenyevo is clear sky
+------------
+Retrieving Results for eenhana, Index:607.
+The weather in eenhana is light rain
+------------
+Retrieving Results for puri, Index:608.
+The weather in puri is mist
+------------
+Retrieving Results for birjand, Index:609.
+The weather in birjand is clear sky
+------------
+Retrieving Results for bilma, Index:610.
+The weather in bilma is scattered clouds
+------------
+Retrieving Results for robertsport, Index:611.
+The weather in robertsport is broken clouds
+------------
+Retrieving Results for punta de bombon, Index:612.
+The weather in punta de bombon is broken clouds
+------------
+Retrieving Results for bratsk, Index:613.
+The weather in bratsk is clear sky
+------------
+Retrieving Results for sunbury, Index:614.
+The weather in sunbury is broken clouds
+------------
+Retrieving Results for tucuman, Index:615.
+The weather in tucuman is broken clouds
+------------
+Retrieving Results for bafra, Index:616.
+The weather in bafra is broken clouds
+------------
+Retrieving Results for meadow lake, Index:617.
+The weather in meadow lake is broken clouds
+------------
+Retrieving Results for padang, Index:618.
+The weather in padang is overcast clouds
+------------
+Retrieving Results for arrecife, Index:619.
+The weather in arrecife is few clouds
+------------
+Retrieving Results for barawe, Index:620.
+Missing field/result... skipping.
+------------
+Retrieving Results for jujuy, Index:621.
+Missing field/result... skipping.
+------------
+Retrieving Results for barcelos, Index:622.
+The weather in barcelos is light rain
+------------
+Retrieving Results for timizart, Index:623.
+The weather in timizart is clear sky
+------------
